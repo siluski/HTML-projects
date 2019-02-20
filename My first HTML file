@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> My First HTML Doc </h1>
+<p> Colter Wall needs to get famous.</p>
+<p> Link to, "Kate McCannon," Brewery Session.</p>
+<a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwj54caHqMjgAhWQm-AKHaemCiQQwqsBMAF6BAgAEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhCebq5lLgos&usg=AOvVaw3dyfuagr4va9yhh81BtCBT">
+<img src = "https://images-na.ssl-images-amazon.com/images/I/51Q1BRe2QaL._SX355_.jpg" alt = "colter wall by colter wall">
+</a>
+<form action = "/Basic.html" method = "get" target = "_blank">
+  Opinion: <input type = "text" name = "opinion"><br>
+  <input type = "submit" value = "Submit">
+</form>
+<h2>This Button Submits User Input</h2>
+</body>
+</html>
